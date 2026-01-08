@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      width: 250px;
+      padding: 10px;
+    }
+    .safe {
+      color: green;
+      font-weight: bold;
+    }
+    .suspicious {
+      color: orange;
+      font-weight: bold;
+    }
+    .dangerous {
+      color: red;
+      font-weight: bold;
+    }
+    button {
+      margin-top: 10px;
+      padding: 6px;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <h3>PhishGuard AI</h3>
+
+  <button id="scanBtn">Scan Page</button>
+
+  <div id="result"></div>
+
+  <button id="reportBtn">Report Phishing</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>
