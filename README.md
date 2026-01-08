@@ -14,7 +14,7 @@ PhishGuard AI is a smart browser extension that helps users detect phishing atta
 - Designed for Microsoft Edge and Azure deployment
 
 ## Demo Video
-🎥 Demo Link: <PASTE YOUR VIDEO LINK HERE>
+🎥 Demo Link: <https://drive.google.com/file/d/1vyotOy762_3z5-9UHIlNwFj7kQS128Mv/view?usp=drivesdk>
 
 ## Running the MVP (Prototype)
 The MVP uses a locally running backend service for demonstration purposes. In production, the backend is intended to be deployed on Azure App Service.
